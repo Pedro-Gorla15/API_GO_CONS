@@ -1,0 +1,1 @@
+For using this console app just type 'go run main.go' in the terminal and then a new .jpg of a dog will be saved in your current directory. If you type once again 'go run main.go' the dog photo will be replaced for a new one. Some photos show just a dog and others dog + owner.
